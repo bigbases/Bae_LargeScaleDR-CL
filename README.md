@@ -1,6 +1,6 @@
 ## How to Run the Experiment
 
-To run the experiment, execute the experiment script (typically `run_compareExp.py`). This script runs a series of tests with various combinations of model names, clustering methods, and dimensionality reduction methods.
+To run the experiment, execute the experiment script (`model/run_compareExp.py`). This script runs a series of tests with various combinations of model names, clustering methods, and dimensionality reduction methods.
 
 ### 1. Set up the Experiment:
 - Import the `Exp` class from the `modeling` module.
